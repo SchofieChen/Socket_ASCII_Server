@@ -1,0 +1,6 @@
+E:\程式專區\UMC公司專案\GFC\GFC Server simulator\GFC Server\GFC Server\bin\Debug\GFC Server.exe.config
+E:\程式專區\UMC公司專案\GFC\GFC Server simulator\GFC Server\GFC Server\bin\Debug\GFC Server.exe
+E:\程式專區\UMC公司專案\GFC\GFC Server simulator\GFC Server\GFC Server\bin\Debug\GFC Server.pdb
+E:\程式專區\UMC公司專案\GFC\GFC Server simulator\GFC Server\GFC Server\obj\Debug\GFC Server.csprojAssemblyReference.cache
+E:\程式專區\UMC公司專案\GFC\GFC Server simulator\GFC Server\GFC Server\obj\Debug\GFC Server.exe
+E:\程式專區\UMC公司專案\GFC\GFC Server simulator\GFC Server\GFC Server\obj\Debug\GFC Server.pdb
